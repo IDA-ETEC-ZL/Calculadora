@@ -1,4 +1,4 @@
-# Calculadora
+# Tabela Versátil
 Projeto de tabela versátil para a feira tecnológica da ETEC
 Integrantes:
 Ana Luiza Goes Barbosa,
